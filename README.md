@@ -95,15 +95,5 @@ Here are some ideas to get you started:
   
 </p>
 
-# <h3>📊 GitHub Stats :</h3>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikeshchaudhari&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=nikeshchaudhari&theme=radical&_border=false&include_all_commits=true&count_private=true)</br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nikeshchaudhari&theme=radical&hide_border=false)
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px" align="center">
 
-<br/>
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-![views since 2025/04/14](https://visitor-badge-deno.deno.dev/mdnadeemsarwar.mdnadeemsarwar.svg)
