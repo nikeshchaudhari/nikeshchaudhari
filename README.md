@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 # <h3>🖥️ Technical Skills: </h3>
 ## 🚀 Tech Stack
 
-## 🚀 Tech Stack
 
 <p align="left">
 
