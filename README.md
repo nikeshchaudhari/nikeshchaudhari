@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
     
 # <h3>🖥️ Technical Skills: </h3>
-<p align="left" style={display:"flex"}>
+<p align="left" }>
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -94,6 +94,8 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
 
 </a>
+
+</p>
 
 
 
